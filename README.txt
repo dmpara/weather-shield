@@ -1,6 +1,6 @@
 # weather-shield
 
-This project is to make a self-contained/self-sustained weather station.
+This project is to make a self-contained/self-sustained weather station built around the particle photon.
 
 Current Hardware:
 - photon - https://www.particle.io
